@@ -1,0 +1,7 @@
+Listado de rutas de carpetas
+El n£mero de serie del volumen es EE4C-5617
+C:.
+ÀÄÄÄproyecto
+    ÃÄÄÄpunto1
+    ÃÄÄÄpunto2
+    ÀÄÄÄpunto3
